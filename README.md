@@ -1,2 +1,1 @@
-# my-first-code
-this is my first project 
+ # this is my first project 
